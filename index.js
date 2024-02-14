@@ -25,7 +25,7 @@ const perguntas = [
     correta: 2,
   },
   {
-    pergunta: "Qual é o apelido de Crowley, o Rei do Inferno?",
+    pergunta: "Qual é o verdadeiro nome de Crowley?",
     resposta: ["Moloch", "Baal", "Fergus"],
     correta: 2,
   },
@@ -41,7 +41,7 @@ const perguntas = [
   },
   {
     pergunta: "Qual é o nome da arma capaz de matar quase qualquer ser sobrenatural?",
-    resposta: ["Espada de Miguel", "Foice de Death", "Colt"],
+    resposta: ["Faca demoníaca", "AK47", "Colt"],
     correta: 2,
   },
   {
