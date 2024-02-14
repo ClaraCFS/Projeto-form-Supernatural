@@ -20,7 +20,7 @@ main {
 header {
     margin-top: 65px;
     padding-bottom: 25px;
-    border-bottom: 1px solid #334155;
+    border-bottom: 1px solid #5d5d5d;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -45,14 +45,14 @@ header {
     align-items: center;
     gap: 10px;
 
-    background-color: #1e293b;
+    background-color: #8a0000;
 }
 
 .quiz-item h3::before{
     counter-increment: quiz-item;
     content:counter(quiz-item);
 
-    background-color: #475569;
+    background-color: rgb (82,83,137);
     width: 30px;
     height: 30px;
     font-size: 10px;
