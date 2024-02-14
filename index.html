@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400; 600; 700&display=swap" rel="stylesheet">
+
+    <title>Quiz sobre Supernatural</title>
+</head>
+<body>
+    <header>
+        <img src="./images/1.png" alt="Logo Supernatural" id="Logo">
+        <h1>Quiz sobre Supernatural</h1>
+        <img src="./images/1.png" alt="Logo Supernatural" id="Logo">
+
+    </header>
+
+    <main>
+        <div id="quiz"></div>
+
+        <template id="quiz-template">
+            <div class="quiz-item">
+                <h3 class="quiz"></h3>
+                <dl>
+                    <dt>
+                        <input type="radio" name="pergunta" value="0">
+                        <span></span>
+                    </dt>
+                </dl>
+            </div>
+        </template>
+    </main>
+
+    <aside id="acertos">
+        <strong>Acertou</strong>
+        <span>0 de 10</span>
+    </aside>
+
+    <footer>
+        <script src="index.js" defer></script>
+    </footer>
+</body>
+</html>
