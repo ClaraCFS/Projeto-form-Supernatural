@@ -10,11 +10,11 @@ Então, o que é exatamente este projeto? É um quiz dedicado à série "Superna
 
 Veja como você pode contribuir:
 
-1. **Reportar Problemas:** Se encontrar algo estranho ou que não funciona no quiz, nos avise! Clique [aqui](https://github.com/claracfs/Projeto-form-Supernatural/issues) para nos contar.
+1. **Reportar Problemas:** Se encontrar algo estranho ou que não funciona no quiz, me avise! Clique [aqui](https://github.com/claracfs/Projeto-form-Supernatural/issues) para me contar.
 
-2. **Sugestões e Ideias:** Se tiver ideias para tornar nosso quiz ainda mais divertido, compartilhe conosco! Estamos abertos a sugestões e adoraríamos ouvir suas ideias.
+2. **Sugestões e Ideias:** Se tiver ideias para tornar este quiz ainda mais divertido, compartilhe comigo! Estou aberta a sugestões e adoraría ouvir suas ideias.
 
-3. **Contribuir com Código:** Se quiser experimentar um pouco de programação, ótimo! Pegue nosso código, faça suas alterações e nos envie para revisão. Não se preocupe se parecer um pouco confuso no início, todos nós começamos por algum lugar!
+3. **Contribuir com Código:** Se quiser experimentar um pouco de programação, ótimo! Pegue esse código, faça suas alterações e me envie para revisão. Não se preocupe se parecer um pouco confuso no início, todos nós começamos por algum lugar!
 
 ## Como Jogar no Seu Computador
 
